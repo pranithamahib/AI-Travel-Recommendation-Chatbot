@@ -11,7 +11,7 @@ An AI-powered travel assistant built using **Flowise AI** that helps users disco
 ![image alt](https://github.com/pranithamahib/AI-Travel-Recommendation-Chatbot/blob/09ed18a4359f2358217e8297208ea924c3b5025f/Screenshots/Temple%20Recommendation.png)
 
 ### Budget Travel Recommendation
-![Budget Recommendation](images/budget-trip.png)
+![image alt](https://github.com/pranithamahib/AI-Travel-Recommendation-Chatbot/blob/a80f875545eb7358724070067638389f6ab19154/Screenshots/Budget%20Travel%20Recommendation.png)
 
 ### Flowise Workflow
 ![Flowise Workflow](images/workflow.png)
